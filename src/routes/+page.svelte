@@ -214,7 +214,7 @@
 					class="reveal max-w-3xl text-5xl font-semibold leading-[0.95] tracking-tight sm:text-6xl lg:text-7xl"
 					style="transition-delay: 140ms;"
 				>
-					KI-Flows für den Mittelstand. Installiert &amp; Integriert.
+					KI-Flows für den Mittelstand.
 				</h1>
 
 				<p
@@ -283,7 +283,7 @@
 			class="reveal mb-4 text-3xl font-semibold tracking-tight text-[var(--text)] sm:text-4xl lg:text-5xl"
 			style="transition-delay: 90ms;"
 		>
-			FLUX trifft WERK: modern, aber bodenständig
+			FLUX trifft WERK: modern, bodenständig
 		</h2>
 		<p use:reveal class="reveal max-w-4xl text-base text-[var(--text-soft)] sm:text-lg" style="transition-delay: 150ms;">
 			FLUX steht für reibungslosen Datenfluss und Automation. WERK steht für Verlaesslichkeit,
